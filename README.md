@@ -19,23 +19,6 @@ An interactive Power BI dashboard built to analyze IPL 2026 match data and uncov
 - DAX
 - Data Modeling
 - Data Visualization
-
----
-
-## 📸 Dashboard Preview
-
-### Overview Dashboard
-
-![Overview](Dashboard%20Screenshots/Overview.png)
-
-### Batting Analysis
-
-![Batting](Dashboard%20Screenshots/Batting%20Analysis.png)
-
-### Bowling Analysis
-
-![Bowling](Dashboard%20Screenshots/Bowling%20Analysis.png)
-
 ---
 
 ## 🎯 Key Insights
